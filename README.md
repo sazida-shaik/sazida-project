@@ -17,4 +17,8 @@ This project demonstrates the use of Git and GitHub for version control.
 - JavaScript interaction
 - Version control using Git
 
+## Live Demo
+Project is live here:
+https://sazida-shaik.github.io/sazida-project/
+
 Author: Sazida Shaik
